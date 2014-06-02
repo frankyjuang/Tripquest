@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tripquest</string>
+    <string name="photo_description">Hello world!</string>
+	<string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="settings_option">Alpha, Beta, Gamma</string>
+    
+    <string-array name="main_function">
+        <item>Wall</item>
+        <item>Map</item>
+        <item>Mission</item>
+        <item>Settings</item>
+    </string-array>
+    
+    <string name="drawer_open">開啟導覽列</string>
+    <string name="drawer_close">關閉導覽列</string>
+    
+    <string-array name="wall_title">
+        <item>億載金城武 向您送出了挑戰</item>
+        <item>三重劉德華 向您送出了挑戰</item>
+        <item>泰山錢德勒 完成了 森林一日遊</item>
+        <item>苗栗小五郎 完成了 地毯搜索之旅</item>
+        <item>賈不妙 完成了 簡便鐵馬行 III</item>
+        <item>賈不妙 完成了 簡便鐵馬行 IV</item>
+        <item>賈不妙 完成了 簡便鐵馬行 V</item>
+        <item>賈不妙 完成了 簡便鐵馬行 VI</item>
+        <item>賈不妙 完成了 簡便鐵馬行 VII</item>
+    </string-array>
+    <string-array name="wall_content">
+        <item>JIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZ</item>
+        <item>7122</item>
+        <item>2217</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+    </string-array>
+    
+    <string-array name="mission_title">
+        <item>億載金城半日遊</item>
+        <item>三重老街一日遊</item>
+        <item>泰山登峰造極曉天下</item>
+        <item>苗栗油桐花季</item>
+        <item>簡便鐵馬行 III</item>
+        <item>簡便鐵馬行 IV</item>
+        <item>簡便鐵馬行 V</item>
+        <item>簡便鐵馬行 VI</item>
+        <item>簡便鐵馬行 VII</item>
+    </string-array>
+    <string-array name="mission_content">
+        <item>JIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZJIZZ</item>
+        <item>7122</item>
+        <item>2217</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+        <item>ZZIJ</item>
+    </string-array>
+    
+    <string name="targetAPSSID">CSIE_hackathon</string>
+    <string name="targetIP">220.133.81.23</string>
+    <string name="targetPort">9000</string>
+    
+    <string name="setWifiStateSucceeded">Set Wifi State Succeeded.</string>
+    <string name="setWifiStateFailed">Set Wifi State Failed.</string>
+    <string name="connectTargetAPSucceeded">Connect Target AP Succeeded.</string>
+    <string name="connectTartgetAPFailed">Connect Target AP Failed.</string>
+    <string name="connectionCreated">Connection Created.</string>
+    <string name="connectionNotCreated">Connection Not Created.</string>
+    <string name="socketCreationSucceeded">Socket Creation Succeeded.</string>
+    <string name="socketCreationFailed">Socket Creation Failed.</string>
+    
+    <string name="album_name">CameraSample</string>
+    
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/mission_block"
+	android:layout_height="wrap_content" 
+	android:layout_width="match_parent" 
+	android:paddingTop="8dp"
+	android:paddingBottom="8dp"
+	android:paddingLeft="8dp"
+	android:paddingRight="8dp"
+	android:orientation="vertical" >
+	 
+    
+    <ImageView
+        android:id="@+id/mission_photo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:paddingRight="4dp"
+        android:contentDescription="@string/photo_description" />
+    
+	<TextView
+		android:id="@+id/mission_title"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:ellipsize="end"
+		android:layout_toRightOf="@id/mission_photo"
+		android:singleLine="true"
+		android:textStyle="bold"
+		android:textSize="22sp" />
+
+	<TextView 
+		android:id="@+id/mission_content" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/mission_title"
+		android:layout_toRightOf="@id/mission_photo"
+		android:textAppearance="?android:attr/textAppearanceSmall" />
+	 
+	 
+</RelativeLayout>
